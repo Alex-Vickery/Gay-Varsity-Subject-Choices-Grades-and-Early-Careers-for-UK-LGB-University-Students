@@ -1,4 +1,7 @@
 # Gay Varsity: Subject Choices, Grades, and Early Careers for UK LGB University Students
+
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
 (Update coming soon)
 
 This repository contains the code and data accompanying the paper "Gay Varsity: Subject Choices, Grades, and Early Careers for UK LGB University Students", written by Jefferson Frank and Alexander Vickery, Currently Revise and Resubmit at Labour Economics.
